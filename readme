@@ -1,0 +1,12 @@
+Tested on Ubuntu 20
+python_version = "3.8"
+
+>setup venv/pipenv
+>pip install -r requirements.txt
+
+assignment1.py,assignment12.py
+>python assignment.py
+
+assignment3.py
+>apt-get install network-manager
+>python assignment3.py
